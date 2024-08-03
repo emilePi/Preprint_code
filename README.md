@@ -12,7 +12,7 @@ and gives also the tex source to generate Table 2 of the article which is:
 
 ## Usage
 
-- You can plot the figures and tables corresponding to the preprint by using `Gaussian_diffusion_W2.ipynb` and the data `ADSN.npy` and `cifar10.npy`
+- You can plot the figures and tables corresponding to the preprint by using `Gaussian_diffusion_W2.ipynb` and the data `ADSN.npy` and `cifar10.npy`. To observe the code online, we suggest to open `Gaussian_diffusion_W2.pdf` to avoid latex compilation errors.
 - You can use your own data and pre-process the eigenvalues of the covariance matrix of the associated Gaussian distribution by using  `vps_ADSN.ipynb` for an ADSN and `vps_Gaussian_cifar10.ipynb` for a dataset of images.
 
 
